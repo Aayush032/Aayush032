@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayush032
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML AND CSS
+- 👀 I’m interested in application and software development.
+- 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-> you can email me at my gmail aayushmaharjan032@gmail.com
 
