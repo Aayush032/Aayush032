@@ -27,5 +27,5 @@ I'm a backend-focused software engineer with hands-on experience building produc
 ## 📫 Let's Connect
  
 - **Email:** aayushmaharjan032@gmail.com
-- **LinkedIn:** [linkedin.com/in/aayush-maharjan](https://linkedin.com/in/aayush-maharjan)
+- **LinkedIn:** [linkedin.com/in/aayush-maharjan](www.linkedin.com/in/aayush-maharjan-64312b247)
 - **GitHub:** [@Aayush032](https://github.com/Aayush032)
